@@ -13,19 +13,20 @@ An old village builder / hero manager web rpg ported to [rcpp_framework](https:/
 
 #### Godot Engine Modules
 
-[entity_spell_system](https://github.com/Relintai/entity_spell_system)
-[voxelman](https://github.com/Relintai/voxelman) \
-[terraman](https://github.com/Relintai/terraman) - [terraman_2d](https://github.com/Relintai/terraman_2d)\
-[props](https://github.com/Relintai/props) - [props_2d](https://github.com/Relintai/props_2d)\
-[thread_pool](https://github.com/Relintai/thread_pool)\
-[mesh_utils](https://github.com/Relintai/mesh_utils)\
-[texture_packer](https://github.com/Relintai/texture_packer)\
-[world_generator](https://github.com/Relintai/world_generator)\
-[ui_extensions](https://github.com/Relintai/ui_extensions)\
-[mesh_data_resource](https://github.com/Relintai/mesh_data_resource)\
-[skeleton_editor](https://github.com/Relintai/skeleton_editor) -> [godot](https://github.com/Relintai/godot/tree/3.x) \
-[godot_fastnoise](https://github.com/Relintai/godot_fastnoise)\
-[procedural_animations](https://github.com/Relintai/procedural_animations)
+[[entity_spell_system]](https://github.com/Relintai/entity_spell_system) - An entity and spell system c++ godot engine module, for complex (optionally multiplayer) RPGs.\
+
+[[Terraman]](https://github.com/Relintai/terraman) - [[Terraman_2d]](https://github.com/Relintai/terraman_2d) - Terrain and building engine for godot based on voxelman.\
+[[voxelman]](https://github.com/Relintai/voxelman) - A c++ voxel engine module for godot. \
+[[Props]](https://github.com/Relintai/props) - [[Props_2d]](https://github.com/Relintai/props_2d) - godot engine module to help with creating/optimizing in-game props.\
+[[thread_pool]](https://github.com/Relintai/thread_pool) - A c++ Godot engine module which makes it easy to run methods in threads. \
+[[mesh_utils]](https://github.com/Relintai/mesh_utils) - A c++ Godot engine module containing utilites for working with mehses (Like simplification).\
+[[texture_packer]](https://github.com/Relintai/texture_packer) - A c++ Godot engine module, to layer, pack, and merge textures at runtime.\
+[[world_generator]](https://github.com/Relintai/world_generator) - A c++ engine module for the godot engine. Contains lots of classes to help with world generation.\
+[[ui_extensions]](https://github.com/Relintai/ui_extensions) - Small extensions engine module for GODOT.\
+[[mesh_data_resource]](https://github.com/Relintai/mesh_data_resource) - A Godot c++ engine module. It adds a data-only mesh type with an importer.\
+[[skeleton_editor]](https://github.com/Relintai/skeleton_editor) - Godot engine module version of TokageItLab's skeleton editor pr, that got deprecated, but my [godot](https://github.com/Relintai/godot/tree/3.x) fork has it fully implemented. \
+[[godot_fastnoise]](https://github.com/Relintai/godot_fastnoise) - Zylann's godot_fastnoise, but with compile fixes for 4.0, and a Resource class.\
+[[procedural_animations]](https://github.com/Relintai/procedural_animations) - A c++ engine module for godot, that lets you create new animations from animation frames. (Deprecated)
 
 #### Godot Addons
 
@@ -40,7 +41,7 @@ An old village builder / hero manager web rpg ported to [rcpp_framework](https:/
 
 #### WoW Addons
 
-Relintai's Enemy "Kooldown" Tracker - [[TBC - 2.4.3]](https://github.com/Relintai/Relintais-Enemy-Kooldown-Tracker-TBC) - [[WotLK - 3.3.5a]](https://github.com/Relintai/Relintais-Enemy-Kooldown-Tracker-WotLK)
+Relintai's Enemy "Kooldown" Tracker - [[TBC - 2.4.3]](https://github.com/Relintai/Relintais-Enemy-Kooldown-Tracker-TBC) - [[WotLK - 3.3.5a]](https://github.com/Relintai/Relintais-Enemy-Kooldown-Tracker-WotLK) - This is a PvP cooldown tracker addon for World of Warcraft (the old clients).
 
 #### Other
 
