@@ -1,4 +1,4 @@
-Since I can only pin 6 repositories, and I have more stuff that might be of you interest now the appear in this readme instead.
+Since you can only pin 6 repositories and I have more stuff that might be of interest I'm using this file instead of pins.
 
 #### Games
 
