@@ -13,10 +13,8 @@ Since I can only pin 6 repositories, and I have more stuff that might be of you 
 
 [entity_spell_system](https://github.com/Relintai/entity_spell_system)
 [voxelman](https://github.com/Relintai/voxelman) \
-[terraman](https://github.com/Relintai/terraman)\
-[terraman_2d](https://github.com/Relintai/terraman_2d)\
-[props](https://github.com/Relintai/props)\
-[props_2d](https://github.com/Relintai/props_2d)\
+[terraman](https://github.com/Relintai/terraman) - [terraman_2d](https://github.com/Relintai/terraman_2d)\
+[props](https://github.com/Relintai/props) - [props_2d](https://github.com/Relintai/props_2d)\
 [thread_pool](https://github.com/Relintai/thread_pool)\
 [mesh_utils](https://github.com/Relintai/mesh_utils)\
 [texture_packer](https://github.com/Relintai/texture_packer)\
@@ -41,8 +39,7 @@ Since I can only pin 6 repositories, and I have more stuff that might be of you 
 
 #### WoW Addons
 
-[Relintais-Enemy-Kooldown-Tracker-TBC](https://github.com/Relintai/Relintais-Enemy-Kooldown-Tracker-TBC) \
-[Relintais-Enemy-Kooldown-Tracker-WotLK](https://github.com/Relintai/Relintais-Enemy-Kooldown-Tracker-WotLK)
+Relintais-Enemy-Kooldown-Tracker - [[TBC - 2.4.3](https://github.com/Relintai/Relintais-Enemy-Kooldown-Tracker-TBC)] - [[WotLK - 3.3.5a](https://github.com/Relintai/Relintais-Enemy-Kooldown-Tracker-WotLK)]
 
 #### Other
 
