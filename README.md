@@ -12,9 +12,9 @@ An old village builder / hero manager web rpg ported to [[rcpp_framework]](https
 #### Godot Engine Modules
 
 [[Entity Spell System]](https://github.com/Relintai/entity_spell_system) - An entity and spell system c++ godot engine module, for complex (optionally multiplayer) RPGs.\
-[[Terraman]](https://github.com/Relintai/terraman) - [[Terraman_2d]](https://github.com/Relintai/terraman_2d) - Terrain and building engine for godot based on voxelman.\
+[[Terraman]](https://github.com/Relintai/terraman) - [[Terraman 2D]](https://github.com/Relintai/terraman_2d) - Terrain and building engine for godot based on voxelman.\
 [[voxelman]](https://github.com/Relintai/voxelman) - A c++ voxel engine module for godot. \
-[[Props]](https://github.com/Relintai/props) - [[Props_2d]](https://github.com/Relintai/props_2d) - godot engine module to help with creating/optimizing in-game props.\
+[[Props]](https://github.com/Relintai/props) - [[Props 2D]](https://github.com/Relintai/props_2d) - godot engine module to help with creating/optimizing in-game props.\
 [[Thread Pool]](https://github.com/Relintai/thread_pool) - A c++ Godot engine module which makes it easy to run methods in threads. \
 [[Mesh Utils]](https://github.com/Relintai/mesh_utils) - A c++ Godot engine module containing utilites for working with mehses (Like simplification).\
 [[Texture Packer]](https://github.com/Relintai/texture_packer) - A c++ Godot engine module, to layer, pack, and merge textures at runtime.\
