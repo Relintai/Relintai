@@ -45,4 +45,4 @@ Relintai's Enemy "Kooldown" Tracker - [[TBC - 2.4.3]](https://github.com/Relinta
 
 #### Other
 
-[programming_tutorials](https://github.com/Relintai/programming_tutorials)
+[Programming Tutorials](https://github.com/Relintai/programming_tutorials) - Hungarian programming tutorials that I'm writing. (Might translate them later.) 
