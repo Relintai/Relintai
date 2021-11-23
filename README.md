@@ -7,7 +7,7 @@ Since you can only pin 6 repositories and I have more stuff that might be of int
 [[Broken Seals Roguelike]](https://github.com/Relintai/broken_seals_roguelike) - An experimental 2d rogulike (turn based) version of Broken Seals.\
 [[The Tower]](https://github.com/Relintai/the_tower) - A really simple and strange looking demonstration project for Voxelman. (Which kind of needs to be updated (soon).) \
 [[Mourne]](https://github.com/Relintai/mourne) - 
-An old village builder / hero manager web rpg ported to [[rcpp_framework]](https://github.com/Relintai/rcpp_framework). (The port is in early stages.)
+An old village builder / hero manager web rpg ported to [[RCPP Framework]](https://github.com/Relintai/rcpp_framework). (The port is in early stages.)
 
 #### Godot Engine Modules
 
