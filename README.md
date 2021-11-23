@@ -24,15 +24,12 @@ Since I can only pin 6 repositories, and I have more stuff that might be of you 
 [ui_extensions](https://github.com/Relintai/ui_extensions)\
 [mesh_data_resource](https://github.com/Relintai/mesh_data_resource)\
 [skeleton_editor](https://github.com/Relintai/skeleton_editor) -> [godot](https://github.com/Relintai/godot/tree/3.x) \
-[godot_fastnoise](https://github.com/Relintai/godot_fastnoise)
+[godot_fastnoise](https://github.com/Relintai/godot_fastnoise)\
+[procedural_animations](https://github.com/Relintai/procedural_animations)
 
 #### Godot Addons
 
 [mat_maker_gd](https://github.com/Relintai/mat_maker_gd)
-
-#### Deprecated, but might be useful
-
-[procedural_animations](https://github.com/Relintai/procedural_animations)
 
 #### RCPP Framework
 
@@ -46,7 +43,6 @@ Since I can only pin 6 repositories, and I have more stuff that might be of you 
 
 [Relintais-Enemy-Kooldown-Tracker-TBC](https://github.com/Relintai/Relintais-Enemy-Kooldown-Tracker-TBC) \
 [Relintais-Enemy-Kooldown-Tracker-WotLK](https://github.com/Relintai/Relintais-Enemy-Kooldown-Tracker-WotLK)
-
 
 #### Other
 
