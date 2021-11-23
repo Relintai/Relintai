@@ -1,5 +1,3 @@
-## WIP
-
 Since I can only pin 6 repositories, and I have more stuff that might be of you interest now the appear in this readme instead.
 
 #### Games
@@ -14,7 +12,6 @@ An old village builder / hero manager web rpg ported to [rcpp_framework](https:/
 #### Godot Engine Modules
 
 [[Entity Spell System]](https://github.com/Relintai/entity_spell_system) - An entity and spell system c++ godot engine module, for complex (optionally multiplayer) RPGs.\
-
 [[Terraman]](https://github.com/Relintai/terraman) - [[Terraman_2d]](https://github.com/Relintai/terraman_2d) - Terrain and building engine for godot based on voxelman.\
 [[voxelman]](https://github.com/Relintai/voxelman) - A c++ voxel engine module for godot. \
 [[Props]](https://github.com/Relintai/props) - [[Props_2d]](https://github.com/Relintai/props_2d) - godot engine module to help with creating/optimizing in-game props.\
