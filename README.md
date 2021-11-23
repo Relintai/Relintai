@@ -31,7 +31,7 @@ An old village builder / hero manager web rpg ported to [[RCPP Framework]](https
 
 #### RCPP Framework
 
-[[RCPP Framework]](https://github.com/Relintai/rcpp_framework) - An experimental c++ app/http framework.\
+[[RCPP Framework]](https://github.com/Relintai/rcpp_framework) - An experimental c++ app/http framework (Only work on linux right now).\
 [[WordPress Saver]](https://github.com/Relintai/wp_saver) - A simple app that lets you save wordpress blogs using RCPP Framework.\
 [[CrystalCMS]](https://github.com/Relintai/crystal_cms) - An old CMS of mine that was originally written for/in laravel now ported to RCPP Framework.\
 [[Simple Data Collector App]](https://github.com/Relintai/rcpp_sample_simple_data_collector_app) - Sample data collector app for RCPP Framework. 
