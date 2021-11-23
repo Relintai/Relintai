@@ -39,7 +39,7 @@ Since I can only pin 6 repositories, and I have more stuff that might be of you 
 
 #### WoW Addons
 
-Relintais-Enemy-Kooldown-Tracker - [[TBC - 2.4.3](https://github.com/Relintai/Relintais-Enemy-Kooldown-Tracker-TBC)] - [[WotLK - 3.3.5a](https://github.com/Relintai/Relintais-Enemy-Kooldown-Tracker-WotLK)]
+Relintai's Enemy "Kooldown" Tracker - [[TBC - 2.4.3]](https://github.com/Relintai/Relintais-Enemy-Kooldown-Tracker-TBC) - [[WotLK - 3.3.5a]](https://github.com/Relintai/Relintais-Enemy-Kooldown-Tracker-WotLK)
 
 #### Other
 
