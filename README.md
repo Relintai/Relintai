@@ -4,10 +4,10 @@ Since I can only pin 6 repositories, and I have more stuff that might be of you 
 
 #### Games
 
-[broken_seals](https://github.com/Relintai/broken_seals)\
-[broken_seals_2d](https://github.com/Relintai/broken_seals_2d)\
-[broken_seals_roguelike](https://github.com/Relintai/broken_seals_roguelike)\
-[the_tower](https://github.com/Relintai/the_tower)
+[Broken Seals](https://github.com/Relintai/broken_seals) - An open source third person action RPG with multiplayer support.\
+[Broken Seals 2d](https://github.com/Relintai/broken_seals_2d) - An experimantal 2d version of Broken Seals.\
+[Broken Seals Roguelike](https://github.com/Relintai/broken_seals_roguelike) - An experimental 2d rogulike (turn based) version of Broken Seals.\
+[The Tower](https://github.com/Relintai/the_tower) - A really simple and strange looking demonstration project for Voxelman. /* It kind of needs to be updated (soon). */ \
 
 #### Godot Engine Modules
 
