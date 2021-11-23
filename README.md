@@ -13,24 +13,24 @@ An old village builder / hero manager web rpg ported to [rcpp_framework](https:/
 
 #### Godot Engine Modules
 
-[[entity_spell_system]](https://github.com/Relintai/entity_spell_system) - An entity and spell system c++ godot engine module, for complex (optionally multiplayer) RPGs.\
+[[Entity Spell System]](https://github.com/Relintai/entity_spell_system) - An entity and spell system c++ godot engine module, for complex (optionally multiplayer) RPGs.\
 
 [[Terraman]](https://github.com/Relintai/terraman) - [[Terraman_2d]](https://github.com/Relintai/terraman_2d) - Terrain and building engine for godot based on voxelman.\
 [[voxelman]](https://github.com/Relintai/voxelman) - A c++ voxel engine module for godot. \
 [[Props]](https://github.com/Relintai/props) - [[Props_2d]](https://github.com/Relintai/props_2d) - godot engine module to help with creating/optimizing in-game props.\
-[[thread_pool]](https://github.com/Relintai/thread_pool) - A c++ Godot engine module which makes it easy to run methods in threads. \
-[[mesh_utils]](https://github.com/Relintai/mesh_utils) - A c++ Godot engine module containing utilites for working with mehses (Like simplification).\
-[[texture_packer]](https://github.com/Relintai/texture_packer) - A c++ Godot engine module, to layer, pack, and merge textures at runtime.\
-[[world_generator]](https://github.com/Relintai/world_generator) - A c++ engine module for the godot engine. Contains lots of classes to help with world generation.\
-[[ui_extensions]](https://github.com/Relintai/ui_extensions) - Small extensions engine module for GODOT.\
-[[mesh_data_resource]](https://github.com/Relintai/mesh_data_resource) - A Godot c++ engine module. It adds a data-only mesh type with an importer.\
-[[skeleton_editor]](https://github.com/Relintai/skeleton_editor) - Godot engine module version of TokageItLab's skeleton editor pr, that got deprecated, but my [godot](https://github.com/Relintai/godot/tree/3.x) fork has it fully implemented. \
-[[godot_fastnoise]](https://github.com/Relintai/godot_fastnoise) - Zylann's godot_fastnoise, but with compile fixes for 4.0, and a Resource class.\
-[[procedural_animations]](https://github.com/Relintai/procedural_animations) - A c++ engine module for godot, that lets you create new animations from animation frames. (Deprecated)
+[[Thread Pool]](https://github.com/Relintai/thread_pool) - A c++ Godot engine module which makes it easy to run methods in threads. \
+[[Mesh Utils]](https://github.com/Relintai/mesh_utils) - A c++ Godot engine module containing utilites for working with mehses (Like simplification).\
+[[Texture Packer]](https://github.com/Relintai/texture_packer) - A c++ Godot engine module, to layer, pack, and merge textures at runtime.\
+[[World Generator]](https://github.com/Relintai/world_generator) - A c++ engine module for the godot engine. Contains lots of classes to help with world generation.\
+[[UI Extensions]](https://github.com/Relintai/ui_extensions) - Small extensions engine module for GODOT.\
+[[Mesh Data Resource]](https://github.com/Relintai/mesh_data_resource) - A Godot c++ engine module. It adds a data-only mesh type with an importer.\
+[[Skeleton Editor]](https://github.com/Relintai/skeleton_editor) - Godot engine module version of TokageItLab's skeleton editor pr, that got deprecated, but my [godot](https://github.com/Relintai/godot/tree/3.x) fork has it fully implemented. \
+[[Godot Fastnoise]](https://github.com/Relintai/godot_fastnoise) - Zylann's godot_fastnoise, but with compile fixes for 4.0, and a Resource class.\
+[[Procedural Animations]](https://github.com/Relintai/procedural_animations) - A c++ engine module for godot, that lets you create new animations from animation frames. (Deprecated)
 
 #### Godot Addons
 
-[mat_maker_gd](https://github.com/Relintai/mat_maker_gd)
+[[Mat Maker GD]](https://github.com/Relintai/mat_maker_gd) - RodZill4's material-maker ported to the cpu. Newest verison is temporarily [[here]](https://github.com/Relintai/broken_seals/tree/master/game/addons/mat_maker_gd).
 
 #### RCPP Framework
 
