@@ -27,7 +27,7 @@ An old village builder / hero manager web rpg ported to [[RCPP Framework]](https
 
 #### Godot Addons
 
-[[Mat Maker GD]](https://github.com/Relintai/mat_maker_gd) - RodZill4's material-maker ported to the cpu. Newest verison is temporarily [[here]](https://github.com/Relintai/broken_seals/tree/master/game/addons/mat_maker_gd).
+[[Mat Maker GD]](https://github.com/Relintai/mat_maker_gd) - RodZill4's material-maker ported to the cpu.
 
 #### RCPP Framework
 
