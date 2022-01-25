@@ -23,7 +23,7 @@ An old village builder / hero manager web rpg ported to [[RCPP Framework]](https
 [[Mesh Data Resource]](https://github.com/Relintai/mesh_data_resource) - A Godot c++ engine module. It adds a data-only mesh type with an importer.\
 [[Skeleton Editor]](https://github.com/Relintai/skeleton_editor) - Godot engine module version of TokageItLab's skeleton editor pr, that got deprecated, but [[my godot fork]](https://github.com/Relintai/godot/tree/3.x) has it fully implemented. See [[PATCHES.md]](https://github.com/Relintai/godot/blob/3.x/PATCHES.md). \
 [[Godot Fastnoise]](https://github.com/Relintai/godot_fastnoise) - Zylann's godot_fastnoise, but with compile fixes for 4.0, and a Resource class.\
-[[Procedural Animations]](https://github.com/Relintai/procedural_animations) - A c++ engine module for godot, that lets you create new animations from animation frames. (Deprecated)
+[[Procedural Animations]](https://github.com/Relintai/procedural_animations) - A c++ engine module for godot, that lets you create new animations from animation frames. (Deprecated)\
 [[Tile Map Backport]](https://github.com/Relintai/tile_map_backport) - Unfinished backport of godot 4.0's tile map to 3.x. It's an egine module so no core modifications are necessary. It's unfinished and I likely won't finish it. It compiles, parts of it work, but still has some crashes remaining. Probably won't take much time to get it fixed.
 
 #### Godot Addons
