@@ -15,7 +15,7 @@ An old village builder / hero manager web rpg ported to [[RCPP Framework]](https
 
 [[Entity Spell System]](https://github.com/Relintai/entity_spell_system) - An entity and spell system c++ godot engine module, for complex (optionally multiplayer) RPGs.\
 [[Terraman]](https://github.com/Relintai/terraman) - Terrain and building engine for godot based on voxelman.\
-[[voxelman]](https://github.com/Relintai/voxelman) - A c++ voxel engine module for godot. \
+[[Voxelman]](https://github.com/Relintai/voxelman) - A c++ voxel engine module for godot. \
 [[Props]](https://github.com/Relintai/props) - A godot engine module to help with creating/optimizing in-game props.\
 [[Thread Pool]](https://github.com/Relintai/thread_pool) - A c++ Godot engine module which makes it easy to run methods in threads. \
 [[Mesh Utils]](https://github.com/Relintai/mesh_utils) - A c++ Godot engine module containing utilites for working with mehses (Like simplification).\
