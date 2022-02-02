@@ -30,9 +30,9 @@ An old village builder / hero manager web rpg ported to [[RCPP Framework]](https
 
 #### Godot Addons
 
-[[Mat Maker GD]](https://github.com/Relintai/mat_maker_gd) - RodZill4's material-maker ported to the cpu (a.k.a. full gdscript with threading).
-[[MMesh Data Resource Editor]](https://github.com/Relintai/broken_seals/tree/master/game/addons/mesh_data_resource_editor) - An addon that lets you edit [MeshDataReources](https://github.com/Relintai/mesh_data_resource/blob/master/mesh_data_resource.h) right from withing godot. (I'ts a 3d modelling addon.)
-[[Data Manager]](https://github.com/Relintai/broken_seals/tree/master/game/addons/data_manager) - An editor addon that helps organizing your modular project.
+[[Mat Maker GD]](https://github.com/Relintai/mat_maker_gd) - RodZill4's material-maker ported to the cpu (a.k.a. full gdscript with threading).\
+[[MMesh Data Resource Editor]](https://github.com/Relintai/broken_seals/tree/master/game/addons/mesh_data_resource_editor) - An addon that lets you edit [MeshDataReources](https://github.com/Relintai/mesh_data_resource/blob/master/mesh_data_resource.h) right from withing godot. (I'ts an in-godot 3d modelling addon.)\
+[[Data Manager]](https://github.com/Relintai/broken_seals/tree/master/game/addons/data_manager) - An editor addon that helps organizing your modular project.\
 [[World Generator]](https://github.com/Relintai/broken_seals/tree/master/game/addons/world_generator) - An addon with an editor plugin to help with generating pseudo random worlds.
 
 #### RCPP Framework
