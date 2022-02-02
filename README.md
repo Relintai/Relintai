@@ -30,7 +30,7 @@ An old village builder / hero manager web rpg ported to [[RCPP Framework]](https
 
 #### Godot Addons
 
-[[Mat Maker GD]](https://github.com/Relintai/mat_maker_gd) - RodZill4's material-maker ported to the cpu.
+[[Mat Maker GD]](https://github.com/Relintai/mat_maker_gd) - RodZill4's material-maker ported to the cpu (a.k.a. full gdscript with threading).
 
 
 #### RCPP Framework
