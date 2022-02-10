@@ -9,9 +9,6 @@ Since you can only pin 6 repositories and I have more stuff that might be of int
 [[Mourne]](https://github.com/Relintai/mourne) - 
 An old village builder / hero manager web rpg ported to [[RCPP Framework]](https://github.com/Relintai/rcpp_framework). (The port is in early stages.)
 
-[[Broken Seals 2di]](https://github.com/Relintai/broken_seals_2di) - An experimantal 2d isometric version of Broken Seals. Using assets from the 3d project.\
-[[Broken Seals 2ds]](https://github.com/Relintai/broken_seals_2ds) - An experimantal 2d version of Broken Seals, using the simplest graphics I can get away with.
-
 #### Godot Engine Modules
 
 [[Entity Spell System]](https://github.com/Relintai/entity_spell_system) - An entity and spell system c++ godot engine module, for complex (optionally multiplayer) RPGs.\
