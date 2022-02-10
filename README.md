@@ -4,6 +4,8 @@ Since you can only pin 6 repositories and I have more stuff that might be of int
 
 [[Broken Seals]](https://github.com/Relintai/broken_seals) - An open source third person action RPG with multiplayer support.\
 [[Broken Seals 2d]](https://github.com/Relintai/broken_seals_2d) - An experimantal 2d version of Broken Seals.\
+[[Broken Seals 2di]](https://github.com/Relintai/broken_seals_2di) - An experimantal 2d isometric version of Broken Seals. Using assets from the 3d project.\
+[[Broken Seals 2ds]](https://github.com/Relintai/broken_seals_2ds) - An experimantal 2d version of Broken Seals, using the simplest graphics I can get away with.\
 [[Broken Seals Roguelike]](https://github.com/Relintai/broken_seals_roguelike) - An experimental 2d rogulike (turn based) version of Broken Seals.\
 [[The Tower]](https://github.com/Relintai/the_tower) - A really simple and strange looking demonstration project for Voxelman.\
 [[Mourne]](https://github.com/Relintai/mourne) - 
