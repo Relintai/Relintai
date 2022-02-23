@@ -27,6 +27,9 @@ An old village builder / hero manager web rpg ported to [[RCPP Framework]](https
 [[Mesh Data Resource]](https://github.com/Relintai/mesh_data_resource) - A Godot c++ engine module. It adds a data-only mesh type with an importer.\
 [[Godot Fastnoise]](https://github.com/Relintai/godot_fastnoise) - Zylann's godot_fastnoise, but with compile fixes for 4.0, and a Resource class.
 
+[[Terraman2D]](https://github.com/Relintai/terraman_2d) - 2D Terrain and building engine for godot based on terraman.\
+[[Props2D]](https://github.com/Relintai/props_2d) - A godot engine module to help with creating/optimizing in-game 2D props.
+
 [[Skeleton Editor]](https://github.com/Relintai/skeleton_editor) - Godot engine module version of TokageItLab's skeleton editor pr, that got deprecated, but [[my godot fork]](https://github.com/Relintai/godot/tree/3.x) has it fully implemented. See [[PATCHES.md]](https://github.com/Relintai/godot/blob/3.x/PATCHES.md).
 
 [[Procedural Animations]](https://github.com/Relintai/procedural_animations) - A c++ engine module for godot, that lets you create new animations from animation frames. (Deprecated)\
