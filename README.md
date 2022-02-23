@@ -26,10 +26,10 @@ An old village builder / hero manager web rpg ported to [[RCPP Framework]](https
 
 [[Thread Pool]](https://github.com/Relintai/thread_pool) - A c++ Godot engine module which makes it easy to run methods in threads.
 
+[[Texture Packer]](https://github.com/Relintai/texture_packer) - A c++ Godot engine module, to layer, pack, and merge textures at runtime.
+
 [[Mesh Data Resource]](https://github.com/Relintai/mesh_data_resource) - A Godot c++ engine module. It adds a data-only mesh type with an importer.\
 [[Mesh Utils]](https://github.com/Relintai/mesh_utils) - A c++ Godot engine module containing utilites for working with mehses (Like simplification).
-
-[[Texture Packer]](https://github.com/Relintai/texture_packer) - A c++ Godot engine module, to layer, pack, and merge textures at runtime.
 
 [[Godot Fastnoise]](https://github.com/Relintai/godot_fastnoise) - Zylann's godot_fastnoise, but with compile fixes for 4.0, and a Resource class.\
 [[UI Extensions]](https://github.com/Relintai/ui_extensions) - Small extensions engine module for GODOT.\
