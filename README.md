@@ -15,24 +15,32 @@ An old village builder / hero manager web rpg ported to [[RCPP Framework]](https
 
 #### Godot Engine Modules
 
-[[Entity Spell System]](https://github.com/Relintai/entity_spell_system) - An entity and spell system c++ godot engine module, for complex (optionally multiplayer) RPGs.\
+[[Entity Spell System]](https://github.com/Relintai/entity_spell_system) - An entity and spell system c++ godot engine module, for complex (optionally multiplayer) RPGs.
+
 [[Terraman]](https://github.com/Relintai/terraman) - Terrain and building engine for godot based on voxelman.\
 [[Voxelman]](https://github.com/Relintai/voxelman) - A c++ voxel engine module for godot. \
-[[Props]](https://github.com/Relintai/props) - A godot engine module to help with creating/optimizing in-game props.\
-[[Thread Pool]](https://github.com/Relintai/thread_pool) - A c++ Godot engine module which makes it easy to run methods in threads. \
-[[Mesh Utils]](https://github.com/Relintai/mesh_utils) - A c++ Godot engine module containing utilites for working with mehses (Like simplification).\
-[[Texture Packer]](https://github.com/Relintai/texture_packer) - A c++ Godot engine module, to layer, pack, and merge textures at runtime.\
-[[World Generator]](https://github.com/Relintai/world_generator) - A c++ engine module for the godot engine. Contains lots of classes to help with world generation.\
-[[UI Extensions]](https://github.com/Relintai/ui_extensions) - Small extensions engine module for GODOT.\
-[[Mesh Data Resource]](https://github.com/Relintai/mesh_data_resource) - A Godot c++ engine module. It adds a data-only mesh type with an importer.\
-[[Godot Fastnoise]](https://github.com/Relintai/godot_fastnoise) - Zylann's godot_fastnoise, but with compile fixes for 4.0, and a Resource class.
+[[Props]](https://github.com/Relintai/props) - A godot engine module to help with creating/optimizing in-game props.
 
 [[Terraman2D]](https://github.com/Relintai/terraman_2d) - 2D Terrain and building engine for godot based on terraman.\
 [[Props2D]](https://github.com/Relintai/props_2d) - A godot engine module to help with creating/optimizing in-game 2D props.
 
+[[Thread Pool]](https://github.com/Relintai/thread_pool) - A c++ Godot engine module which makes it easy to run methods in threads.
+
+[[Mesh Data Resource]](https://github.com/Relintai/mesh_data_resource) - A Godot c++ engine module. It adds a data-only mesh type with an importer.\
+[[Mesh Utils]](https://github.com/Relintai/mesh_utils) - A c++ Godot engine module containing utilites for working with mehses (Like simplification).
+
+[[Texture Packer]](https://github.com/Relintai/texture_packer) - A c++ Godot engine module, to layer, pack, and merge textures at runtime.
+
+[[World Generator]](https://github.com/Relintai/world_generator) - A c++ engine module for the godot engine. Contains lots of classes to help with world generation.
+
+[[UI Extensions]](https://github.com/Relintai/ui_extensions) - Small extensions engine module for GODOT.
+
+[[Godot Fastnoise]](https://github.com/Relintai/godot_fastnoise) - Zylann's godot_fastnoise, but with compile fixes for 4.0, and a Resource class.
+
 [[Skeleton Editor]](https://github.com/Relintai/skeleton_editor) - Godot engine module version of TokageItLab's skeleton editor pr, that got deprecated, but [[my godot fork]](https://github.com/Relintai/godot/tree/3.x) has it fully implemented. See [[PATCHES.md]](https://github.com/Relintai/godot/blob/3.x/PATCHES.md).
 
-[[Procedural Animations]](https://github.com/Relintai/procedural_animations) - A c++ engine module for godot, that lets you create new animations from animation frames. (Deprecated)\
+[[Procedural Animations]](https://github.com/Relintai/procedural_animations) - A c++ engine module for godot, that lets you create new animations from animation frames. (Deprecated)
+
 [[Tile Map Backport]](https://github.com/Relintai/tile_map_backport) - Unfinished backport of godot 4.0's tile map to 3.x. It's an egine module so no core modifications are necessary. It's unfinished and will likely stay like that aswell. It compiles, parts of it work, but still has some crashes remaining. Probably won't take much time to get it fixed.
 
 #### Godot Addons
