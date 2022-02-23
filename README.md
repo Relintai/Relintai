@@ -31,13 +31,13 @@ An old village builder / hero manager web rpg ported to [[RCPP Framework]](https
 
 [[Texture Packer]](https://github.com/Relintai/texture_packer) - A c++ Godot engine module, to layer, pack, and merge textures at runtime.
 
-[[World Generator]](https://github.com/Relintai/world_generator) - A c++ engine module for the godot engine. Contains lots of classes to help with world generation.
+[[Godot Fastnoise]](https://github.com/Relintai/godot_fastnoise) - Zylann's godot_fastnoise, but with compile fixes for 4.0, and a Resource class.
 
 [[UI Extensions]](https://github.com/Relintai/ui_extensions) - Small extensions engine module for GODOT.
 
-[[Godot Fastnoise]](https://github.com/Relintai/godot_fastnoise) - Zylann's godot_fastnoise, but with compile fixes for 4.0, and a Resource class.
-
 [[Skeleton Editor]](https://github.com/Relintai/skeleton_editor) - Godot engine module version of TokageItLab's skeleton editor pr, that got deprecated, but [[my godot fork]](https://github.com/Relintai/godot/tree/3.x) has it fully implemented. See [[PATCHES.md]](https://github.com/Relintai/godot/blob/3.x/PATCHES.md).
+
+[[World Generator]](https://github.com/Relintai/world_generator) - A c++ engine module for the godot engine. Contains lots of classes to help with world generation.
 
 [[Procedural Animations]](https://github.com/Relintai/procedural_animations) - A c++ engine module for godot, that lets you create new animations from animation frames. (Deprecated)
 
