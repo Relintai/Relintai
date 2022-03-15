@@ -11,6 +11,12 @@ Since you can only pin 6 repositories and I have more stuff that might be of int
 [[Mourne]](https://github.com/Relintai/mourne) - 
 An old village builder / hero manager web rpg ported to [[RCPP Framework]](https://github.com/Relintai/rcpp_framework). (The port is in early stages.)
 
+#### Engine
+
+[[Pandemonium Engine]](https://github.com/Relintai/pandemonium_engine) - A fork of godot that (will be) very heavily customized. It contains all my modules that I currently use.
+
+[[My godot fork]](https://github.com/Relintai/godot/tree/3.x) - Contains a backported version of TokageItLab's skeleton editor pr.
+
 #### Godot Engine Modules
 
 [[Entity Spell System]](https://github.com/Relintai/entity_spell_system) - An entity and spell system c++ godot engine module, for complex (optionally multiplayer) RPGs.
