@@ -13,7 +13,7 @@ An old village builder / hero manager web rpg ported to [[RCPP Framework]](https
 
 #### Game Engine
 
-[[Pandemonium Engine]](https://github.com/Relintai/pandemonium_engine) - A fork of godot that (will be) very heavily customized. It contains all my modules that I currently use.
+[[Pandemonium Engine]](https://github.com/Relintai/pandemonium_engine) - A fork of godot that is very heavily customized. It contains all my modules that I currently use.
 
 [[My godot fork]](https://github.com/Relintai/godot/tree/3.x) - Contains a backported version of TokageItLab's skeleton editor pr.
 
