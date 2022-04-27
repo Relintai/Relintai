@@ -65,5 +65,5 @@ Relintai's Enemy "Kooldown" Tracker - [[TBC - 2.4.3]](https://github.com/Relinta
 
 #### Other
 
-[[UML Generator]](https://github.com/Relintai/uml_generator) - A tool to help with generating UML diagrams from code with minimal changes.
+[[UML Generator]](https://github.com/Relintai/uml_generator) - A tool to help with generating UML diagrams from code with minimal changes.\
 [[Programming Tutorials]](https://github.com/Relintai/programming_tutorials) - Hungarian programming tutorials.
