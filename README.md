@@ -71,3 +71,5 @@ Relintai's Enemy "Kooldown" Tracker - [[TBC - 2.4.3]](https://github.com/Relinta
 
 [[UML Generator]](https://github.com/Relintai/uml_generator) - A tool to help with generating UML class diagrams from code with minimal changes.\
 [[Programming Tutorials]](https://github.com/Relintai/programming_tutorials) - Hungarian programming tutorials.
+
+[[Documents]](https://github.com/Relintai/Documents) - A bunch of university (early BsC) related things. Mostly LATeX files mostly about math (like axioms/definitions/proofs) in hungarian.
