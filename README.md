@@ -9,8 +9,11 @@ Since you can only pin 6 repositories and I have more stuff that might be of int
 
 [[The Tower]](https://github.com/Relintai/the_tower) - A really simple and strange looking demonstration project for Voxelman.
 
+#### Early / experimental stuff
+
 [[Mourne]](https://github.com/Relintai/mourne) - 
-An old village builder / hero manager web rpg ported to [[RCPP Framework]](https://github.com/Relintai/rcpp_framework). (The port is in early stages.)
+An old village builder / hero manager web rpg ported to [[RCPP Framework]](https://github.com/Relintai/rcpp_framework). (The port is in early stages.) \
+[[Dungeons of Zar'Thuul]](https://github.com/Relintai/dungeons_of_zar_thuul) - Resurrection of an old experimenal match 3 game prototype. 
 
 #### Game Engine
 
