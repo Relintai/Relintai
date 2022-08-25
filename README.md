@@ -31,6 +31,8 @@ An old village builder / hero manager web rpg ported to [[RCPP Framework]](https
 
 #### Godot Engine Modules
 
+Note that these are currently developed in the [pandemonium engine](https://github.com/Relintai/pandemonium_engine) repository.
+
 [[Entity Spell System]](https://github.com/Relintai/entity_spell_system) - An entity and spell system c++ godot engine module, for complex (optionally multiplayer) RPGs.
 
 [[Terraman]](https://github.com/Relintai/terraman) - Terrain and building engine for godot based on voxelman.\
