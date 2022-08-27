@@ -27,6 +27,15 @@ An old village builder / hero manager web rpg ported to [[RCPP Framework]](https
 
 [[Pandemonium CMS]](https://github.com/Relintai/pandemonium_cms) - A Pandemonium Engine based experimantal Content Management System for the Web. 
 
+### RCPP Framework
+
+[[RCPP Framework]](https://github.com/Relintai/rcpp_framework) - An experimental c++ app/http framework. (Only works on linux right now.) I consider this deprecated, as I ended up merging all of it's functionality into the [[Pandemonium Engine]](https://github.com/Relintai/pandemonium_engine). See [[here]](https://github.com/Relintai/pandemonium_engine/tree/master/modules/web), and [[here]](https://github.com/Relintai/pandemonium_engine/tree/master/modules/database).
+
+[[WordPress Saver]](https://github.com/Relintai/wp_saver) - A simple app that lets you save wordpress blogs using RCPP Framework.\
+[[CrystalCMS]](https://github.com/Relintai/crystal_cms) - An old CMS of mine that was originally written for/in laravel now ported to RCPP Framework. (The port is in early stages.)\
+[[Simple Data Collector App]](https://github.com/Relintai/rcpp_sample_simple_data_collector_app) - Sample data collector app for RCPP Framework. 
+
+
 ## Godot
 
 ### Engine Modules
@@ -64,14 +73,6 @@ An old village builder / hero manager web rpg ported to [[RCPP Framework]](https
 [[Mesh Data Resource Editor]](https://github.com/Relintai/broken_seals/tree/master/game/addons/mesh_data_resource_editor) - An addon that lets you edit [MeshDataResources](https://github.com/Relintai/mesh_data_resource/blob/master/mesh_data_resource.h) right from within godot. (I'ts a 3d modelling addon.)\
 [[Data Manager]](https://github.com/Relintai/broken_seals/tree/master/game/addons/data_manager) - An editor addon that helps organizing modular projects.\
 [[World Generator]](https://github.com/Relintai/broken_seals/tree/master/game/addons/world_generator) - An addon with an editor plugin to help with generating pseudo random worlds.
-
-## RCPP Framework
-
-[[RCPP Framework]](https://github.com/Relintai/rcpp_framework) - An experimental c++ app/http framework. (Only works on linux right now.) I consider this deprecated, as I ended up merging all of it's functionality into the [[Pandemonium Engine]](https://github.com/Relintai/pandemonium_engine). See [[here]](https://github.com/Relintai/pandemonium_engine/tree/master/modules/web), and [[here]](https://github.com/Relintai/pandemonium_engine/tree/master/modules/database).
-
-[[WordPress Saver]](https://github.com/Relintai/wp_saver) - A simple app that lets you save wordpress blogs using RCPP Framework.\
-[[CrystalCMS]](https://github.com/Relintai/crystal_cms) - An old CMS of mine that was originally written for/in laravel now ported to RCPP Framework. (The port is in early stages.)\
-[[Simple Data Collector App]](https://github.com/Relintai/rcpp_sample_simple_data_collector_app) - Sample data collector app for RCPP Framework. 
 
 ## WoW Addons
 
