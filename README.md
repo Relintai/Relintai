@@ -1,6 +1,6 @@
 Since you can only pin 6 repositories and I have more stuff that might be of interest I'm using this file instead of pins.
 
-#### Games
+## Games
 
 [[Broken Seals]](https://github.com/Relintai/broken_seals) - An open source third person action RPG with multiplayer support.
 
@@ -13,23 +13,23 @@ Since you can only pin 6 repositories and I have more stuff that might be of int
 
 [[Utilities / Gamedev]](https://github.com/Relintai/utilities_gamedev) - Gamedev related utilities like addons and small scripts for godot / pandemonium. 
 
-##### Game Engine
+### Game Engine
 
 [[Pandemonium Engine]](https://github.com/Relintai/pandemonium_engine) - A fork of godot that is very heavily customized. It contains all my modules that I currently use.
 
-##### Early experimental stuff
+### Early experimental stuff
 
 [[Mourne]](https://github.com/Relintai/mourne) - 
 An old village builder / hero manager web rpg ported to [[RCPP Framework]](https://github.com/Relintai/rcpp_framework). (The port is in early stages.) \
 [[Dungeons of Zar'Thuul]](https://github.com/Relintai/dungeons_of_zar_thuul) - Resurrection of an old experimenal match 3 game prototype. 
 
-#### Web
+## Web
 
 [[Pandemonium CMS]](https://github.com/Relintai/pandemonium_cms) - A Pandemonium Engine based experimantal Content Management System for the Web. 
 
-#### Godot
+## Godot
 
-##### Engine Modules
+### Engine Modules
 
 (Note that now these are developed in the [pandemonium engine](https://github.com/Relintai/pandemonium_engine) repository.)
 
@@ -58,14 +58,14 @@ An old village builder / hero manager web rpg ported to [[RCPP Framework]](https
 [[Procedural Animations]](https://github.com/Relintai/procedural_animations) - A c++ engine module for godot, that lets you create new animations from animation frames. (Deprecated)\
 [[Tile Map Backport]](https://github.com/Relintai/tile_map_backport) - Unfinished backport of godot 4.0's tile map to 3.x. It's an egine module so no core modifications are necessary. It's unfinished and will likely stay like that aswell. It compiles, parts of it work, but still has some crashes remaining. Probably won't take much time to get it fixed.
 
-##### Godot Addons
+### Godot Addons
 
 [[Mat Maker GD]](https://github.com/Relintai/mat_maker_gd) - RodZill4's material-maker ported to the cpu (a.k.a. full gdscript with threading).\
 [[Mesh Data Resource Editor]](https://github.com/Relintai/broken_seals/tree/master/game/addons/mesh_data_resource_editor) - An addon that lets you edit [MeshDataResources](https://github.com/Relintai/mesh_data_resource/blob/master/mesh_data_resource.h) right from within godot. (I'ts a 3d modelling addon.)\
 [[Data Manager]](https://github.com/Relintai/broken_seals/tree/master/game/addons/data_manager) - An editor addon that helps organizing modular projects.\
 [[World Generator]](https://github.com/Relintai/broken_seals/tree/master/game/addons/world_generator) - An addon with an editor plugin to help with generating pseudo random worlds.
 
-#### RCPP Framework
+## RCPP Framework
 
 [[RCPP Framework]](https://github.com/Relintai/rcpp_framework) - An experimental c++ app/http framework. (Only works on linux right now.) I consider this deprecated, as I ended up merging all of it's functionality into the [[Pandemonium Engine]](https://github.com/Relintai/pandemonium_engine). See [[here]](https://github.com/Relintai/pandemonium_engine/tree/master/modules/web), and [[here]](https://github.com/Relintai/pandemonium_engine/tree/master/modules/database).
 
@@ -73,11 +73,11 @@ An old village builder / hero manager web rpg ported to [[RCPP Framework]](https
 [[CrystalCMS]](https://github.com/Relintai/crystal_cms) - An old CMS of mine that was originally written for/in laravel now ported to RCPP Framework. (The port is in early stages.)\
 [[Simple Data Collector App]](https://github.com/Relintai/rcpp_sample_simple_data_collector_app) - Sample data collector app for RCPP Framework. 
 
-#### WoW Addons
+## WoW Addons
 
 Relintai's Enemy "Kooldown" Tracker - [[TBC - 2.4.3]](https://github.com/Relintai/Relintais-Enemy-Kooldown-Tracker-TBC) - [[WotLK - 3.3.5a]](https://github.com/Relintai/Relintais-Enemy-Kooldown-Tracker-WotLK) - This is a PvP cooldown tracker addon for World of Warcraft (the old clients).
 
-#### Other
+## Other
 
 [[UML Generator]](https://github.com/Relintai/uml_generator) - A tool to help with generating UML class diagrams from code with minimal changes.\
 [[Programming Tutorials]](https://github.com/Relintai/programming_tutorials) - Hungarian programming tutorials.
