@@ -1,5 +1,3 @@
-Since you can only pin 6 repositories and I have more stuff that might be of interest I'm using this file instead of pins.
-
 ## Games
 
 [[Broken Seals]](https://github.com/Relintai/broken_seals) - An open source third person action RPG with multiplayer support.
