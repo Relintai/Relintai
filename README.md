@@ -82,3 +82,5 @@ Relintai's Enemy "Kooldown" Tracker - [[TBC - 2.4.3]](https://github.com/Relinta
 [[Programming Tutorials]](https://github.com/Relintai/programming_tutorials) - Hungarian programming tutorials.
 
 [[Documents]](https://github.com/Relintai/Documents) - A bunch of university (early BsC) related things. Mostly LATeX files mostly about math (like axioms/definitions/proofs) in hungarian.
+
+[[YTDL Link Gen]](https://github.com/Relintai/ytdl_link_gen) - A little python script that helps archiving youtube (and other) channels using yt-dlp. 
