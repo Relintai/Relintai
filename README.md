@@ -7,7 +7,8 @@
 [[Broken Seals 2d]](https://github.com/Relintai/broken_seals_2d) - An experimantal 2d version of Broken Seals.\
 [[Broken Seals 2ds]](https://github.com/Relintai/broken_seals_2ds) - An experimantal 2d version of Broken Seals, but with the simplistic graphics I can get away with.
 
-[[The Tower]](https://github.com/Relintai/the_tower) - A really simple and strange looking demonstration project for Voxelman.
+[[The Tower]](https://github.com/Relintai/the_tower) - A really simple and strange looking demonstration project for Voxelman.\
+[[The Tower Pandemonium]](https://github.com/Relintai/the_tower_pandemonium) - A really simple and strange looking demonstration project for Voxelman in the Pandemonium Engine.
 
 [[Utilities / Gamedev]](https://github.com/Relintai/utilities_gamedev) - Gamedev related utilities like addons and small scripts for godot / pandemonium. 
 
