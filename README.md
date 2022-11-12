@@ -19,8 +19,7 @@
 ### Early experimental stuff
 
 [[Mourne]](https://github.com/Relintai/mourne) - 
-An old village builder / hero manager web rpg ported to [[RCPP Framework]](https://github.com/Relintai/rcpp_framework). (The port is in early stages.) \
-[[Dungeons of Zar'Thuul]](https://github.com/Relintai/dungeons_of_zar_thuul) - Resurrection of an old experimenal match 3 game prototype. 
+An old village builder / hero manager web rpg ported to [[RCPP Framework]](https://github.com/Relintai/rcpp_framework). (The port is in early stages.) 
 
 ## Web
 
