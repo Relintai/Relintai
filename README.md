@@ -17,18 +17,6 @@
 [[Mourne]](https://github.com/Relintai/mourne) - 
 An old village builder / hero manager web rpg ported to [[RCPP Framework]](https://github.com/Relintai/rcpp_framework). (The port is in early stages.) 
 
-## Web
-
-[[Pandemonium CMS]](https://github.com/Relintai/pandemonium_cms) - A Pandemonium Engine based experimantal Content Management System for the Web. 
-
-### RCPP Framework
-
-[[RCPP Framework]](https://github.com/Relintai/rcpp_framework) - An experimental c++ app/http framework. (Only works on linux right now.) I consider this deprecated, as I ended up merging all of it's functionality into the [[Pandemonium Engine]](https://github.com/Relintai/pandemonium_engine). See [[here]](https://github.com/Relintai/pandemonium_engine/tree/master/modules/web), and [[here]](https://github.com/Relintai/pandemonium_engine/tree/master/modules/database).
-
-[[WordPress Saver]](https://github.com/Relintai/wp_saver) - A simple app that lets you save wordpress blogs using RCPP Framework.\
-[[CrystalCMS]](https://github.com/Relintai/crystal_cms) - An old CMS of mine that was originally written for/in laravel now ported to RCPP Framework. (The port is in early stages.)\
-[[Simple Data Collector App]](https://github.com/Relintai/rcpp_sample_simple_data_collector_app) - Sample data collector app for RCPP Framework. 
-
 ## Game Engine
 
 [[Pandemonium Engine]](https://github.com/Relintai/pandemonium_engine) - A fork of godot that is very heavily customized. It contains all my modules that I currently use.
@@ -79,6 +67,18 @@ An old village builder / hero manager web rpg ported to [[RCPP Framework]](https
 ## WoW Addons
 
 Relintai's Enemy "Kooldown" Tracker - [[TBC - 2.4.3]](https://github.com/Relintai/Relintais-Enemy-Kooldown-Tracker-TBC) - [[WotLK - 3.3.5a]](https://github.com/Relintai/Relintais-Enemy-Kooldown-Tracker-WotLK) - This is a PvP cooldown tracker addon for World of Warcraft (the old clients).
+
+## Web
+
+[[Pandemonium CMS]](https://github.com/Relintai/pandemonium_cms) - A Pandemonium Engine based experimantal Content Management System for the Web. 
+
+### RCPP Framework
+
+[[RCPP Framework]](https://github.com/Relintai/rcpp_framework) - An experimental c++ app/http framework. (Only works on linux right now.) I consider this deprecated, as I ended up merging all of it's functionality into the [[Pandemonium Engine]](https://github.com/Relintai/pandemonium_engine). See [[here]](https://github.com/Relintai/pandemonium_engine/tree/master/modules/web), and [[here]](https://github.com/Relintai/pandemonium_engine/tree/master/modules/database).
+
+[[WordPress Saver]](https://github.com/Relintai/wp_saver) - A simple app that lets you save wordpress blogs using RCPP Framework.\
+[[CrystalCMS]](https://github.com/Relintai/crystal_cms) - An old CMS of mine that was originally written for/in laravel now ported to RCPP Framework. (The port is in early stages.)\
+[[Simple Data Collector App]](https://github.com/Relintai/rcpp_sample_simple_data_collector_app) - Sample data collector app for RCPP Framework. 
 
 ## Other
 
