@@ -33,9 +33,7 @@ An old village builder / hero manager web rpg ported to [[RCPP Framework]](https
 [[Data Manager]](https://github.com/Relintai/broken_seals/tree/master/game/addons/data_manager) - An editor addon that helps organizing modular projects.\
 [[World Generator]](https://github.com/Relintai/broken_seals/tree/master/game/addons/world_generator) - An addon with an editor plugin to help with generating pseudo random worlds.
 
-## Godot
-
-### Engine Modules
+## Godot Engine Modules
 
 (Note that now these are developed in the [pandemonium engine](https://github.com/Relintai/pandemonium_engine) repository.)
 
