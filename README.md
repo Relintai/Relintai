@@ -18,8 +18,8 @@
 
 #### Modules
 
-[[webp]](https://github.com/Relintai/webp) - Module that adds support for webp.\
-[[webm]](https://github.com/Relintai/webm) - Module that adds support for webm.
+[[Webp]](https://github.com/Relintai/webp) - Module that adds support for webp.\
+[[Webm]](https://github.com/Relintai/webm) - Module that adds support for webm.
 
 ### Godot / Pandemonium Addons
 
