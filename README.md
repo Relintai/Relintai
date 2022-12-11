@@ -20,7 +20,7 @@
 
 [[Webp]](https://github.com/Relintai/webp) - Module that adds support for webp.\
 [[Webm]](https://github.com/Relintai/webm) - Module that adds support for webm.\
-[[Gif Loader]](https://github.com/Relintai/gif_loader) - gif loader module for the pandemonium engine.
+[[Gif Loader]](https://github.com/Relintai/gif_loader) - Gif loader module for the pandemonium engine.
 
 ## Godot / Pandemonium Addons
 
@@ -70,7 +70,6 @@ This is a PvP cooldown tracker addon for World of Warcraft 3.3.5a. (the old clie
 [[Pandemonium CMS]](https://github.com/Relintai/pandemonium_cms) - A Pandemonium Engine based experimantal Content Management System for the Web. 
 
 ## Other
-
 
 [[MemR]](https://github.com/Relintai/MemR) - Small cross platform utility to help you organize images into folders.\
 [[UML Generator]](https://github.com/Relintai/uml_generator) - A tool to help with generating UML class diagrams from code with minimal changes.\
