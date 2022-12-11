@@ -12,7 +12,7 @@
 
 [[Utilities / Gamedev]](https://github.com/Relintai/utilities_gamedev) - Gamedev related utilities like addons and small scripts for godot / pandemonium. 
 
-## Game Engine
+## Pandemonium Engine
 
 [[Pandemonium Engine]](https://github.com/Relintai/pandemonium_engine) - A fork of godot that is very heavily customized. It contains all my modules that I currently use.
 
