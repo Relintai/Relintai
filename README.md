@@ -60,12 +60,10 @@
 
 ## WoW Addons
 
-### Relintai's Enemy "Kooldown" Tracker
-
-This is a PvP cooldown tracker addon for World of Warcraft (the old clients).
-
-[[TBC - 2.4.3]](https://github.com/Relintai/Relintais-Enemy-Kooldown-Tracker-TBC) \
-[[WotLK - 3.3.5a]](https://github.com/Relintai/Relintais-Enemy-Kooldown-Tracker-WotLK)
+[[Relintai's Enemy "Kooldown" Tracker - TBC]](https://github.com/Relintai/Relintais-Enemy-Kooldown-Tracker-TBC) - 
+This is a PvP cooldown tracker addon for World of Warcraft 2.4.3 (the old client).\
+[[Relintai's Enemy "Kooldown" Tracker - WotLK]](https://github.com/Relintai/Relintais-Enemy-Kooldown-Tracker-WotLK) - 
+This is a PvP cooldown tracker addon for World of Warcraft 3.3.5a (the old client).\
 
 ## Web
 
