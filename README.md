@@ -67,8 +67,9 @@ Relintai's Enemy "Kooldown" Tracker - [[TBC - 2.4.3]](https://github.com/Relinta
 
 ## Other
 
-[[UML Generator]](https://github.com/Relintai/uml_generator) - A tool to help with generating UML class diagrams from code with minimal changes.\
-[[MemR]](https://github.com/Relintai/MemR) - Small cross platform utility to help you organize images into folders.
+
+[[MemR]](https://github.com/Relintai/MemR) - Small cross platform utility to help you organize images into folders.\
+[[UML Generator]](https://github.com/Relintai/uml_generator) - A tool to help with generating UML class diagrams from code with minimal changes.
 
 [[Programming Tutorials]](https://github.com/Relintai/programming_tutorials) - Hungarian programming tutorials.
 
