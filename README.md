@@ -83,9 +83,9 @@ This is a PvP cooldown tracker addon for World of Warcraft 3.3.5a. (the old clie
 
 [[RCPP Framework]](https://github.com/Relintai/rcpp_framework) - An experimental c++ app/http framework. (Only works on linux right now.) I consider this deprecated, as I ended up merging all of it's functionality into the [[Pandemonium Engine]](https://github.com/Relintai/pandemonium_engine). See [[here]](https://github.com/Relintai/pandemonium_engine/tree/master/modules/web), and [[here]](https://github.com/Relintai/pandemonium_engine/tree/master/modules/database).
 
-[[WordPress Saver]](https://github.com/Relintai/wp_saver) - A simple app that lets you save wordpress blogs using RCPP Framework.\
-[[CrystalCMS]](https://github.com/Relintai/crystal_cms) - An old CMS of mine that was originally written for/in laravel now ported to RCPP Framework. (The port is in early stages.)\
+[[WordPress Saver]](https://github.com/Relintai/wp_saver_rcpp_fw) - A simple app that lets you save wordpress blogs using RCPP Framework.\
+[[CrystalCMS]](https://github.com/Relintai/crystal_cms_rcpp_fw) - An old CMS of mine that was originally written for/in laravel now ported to RCPP Framework. (The port is in early stages.)\
 [[Simple Data Collector App]](https://github.com/Relintai/rcpp_sample_simple_data_collector_app) - Sample data collector app for RCPP Framework. 
 
-[[Mourne]](https://github.com/Relintai/mourne) - 
+[[Mourne]](https://github.com/Relintai/mourne_rcpp_fw) - 
 An old village builder / hero manager web rpg ported to [[RCPP Framework]](https://github.com/Relintai/rcpp_framework). (The port is in early stages.) 
