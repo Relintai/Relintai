@@ -35,7 +35,7 @@
 
 ## Godot Engine Modules
 
-Note: I'm currently updating these to work with Godot 4. They now use multiple branches for godot versions to cut down on #if-s, and defines. Their readmes will be updated after the update is done. I already added a 3.x branch to all of them.
+Note: I'm currently updating these to work with Godot 4. They now use multiple branches for godot versions to cut down on #if-s, and defines. Their readmes will be updated soon. I already added a 3.x branch to all of them.
 
 [[Entity Spell System]](https://github.com/Relintai/entity_spell_system) - An entity and spell system c++ godot engine module, for complex (optionally multiplayer) RPGs.
 
