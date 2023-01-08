@@ -52,12 +52,12 @@
 [[Mesh Utils]](https://github.com/Relintai/mesh_utils) - A c++ Godot engine module containing utilites for working with mehses (Like simplification).
 
 [[Godot Fastnoise]](https://github.com/Relintai/godot_fastnoise) - Zylann's godot_fastnoise, but with compile fixes for 4.0, and a Resource class.\
-[[UI Extensions]](https://github.com/Relintai/ui_extensions) - Small extensions engine module for GODOT.\
-[[Skeleton Editor]](https://github.com/Relintai/skeleton_editor) - Godot engine module version of TokageItLab's skeleton editor pr, that got deprecated, but [[my godot fork]](https://github.com/Relintai/godot/tree/3.x) has it fully implemented. See [[PATCHES.md]](https://github.com/Relintai/godot/blob/3.x/PATCHES.md).
+[[UI Extensions]](https://github.com/Relintai/ui_extensions) - Small extensions engine module for GODOT.
 
 [[World Generator]](https://github.com/Relintai/world_generator) - A c++ engine module for the godot engine. Contains lots of classes to help with world generation.
 
 [[Procedural Animations]](https://github.com/Relintai/procedural_animations) - A c++ engine module for godot, that lets you create new animations from animation frames. (Deprecated)\
+[[Skeleton Editor]](https://github.com/Relintai/skeleton_editor) - Godot engine module version of TokageItLab's skeleton editor pr, that got deprecated, but [[my godot fork]](https://github.com/Relintai/godot/tree/3.x) has it fully implemented. See [[PATCHES.md]](https://github.com/Relintai/godot/blob/3.x/PATCHES.md).\
 [[Tile Map Backport]](https://github.com/Relintai/tile_map_backport) - Unfinished backport of godot 4.0's tile map to 3.x. It's an egine module so no core modifications are necessary. It's unfinished and will likely stay like that aswell. It compiles, parts of it work, but still has some crashes remaining. Probably won't take much time to get it fixed.
 
 ## WoW Addons
