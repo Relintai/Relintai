@@ -25,7 +25,7 @@
 [[Webp]](https://github.com/Relintai/webp) - Module that adds support for webp.\
 [[Webm]](https://github.com/Relintai/webm) - Module that adds support for webm.\
 [[Gif Loader]](https://github.com/Relintai/gif_loader) - Gif loader module for the pandemonium engine.\
-[[PMLPP]](https://github.com/Relintai/pmlpp) - Machine Learning module for the Pandemonium Engine. (Heavily WIP)
+[[PMLPP]](https://github.com/Relintai/pmlpp) - Machine Learning module for the Pandemonium Engine.
 
 ## Godot / Pandemonium Addons
 
