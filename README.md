@@ -32,7 +32,7 @@
 
 #### GDNative Addons
 
-[[GDNative CPP]](https://github.com/Relintai/gdnative_cpp) - C++ bindings for the GDNative module. ([Sample project](https://github.com/Relintai/gdnative_sample))
+[[GDNative CPP]](https://github.com/Relintai/gdnative_cpp) - C++ bindings for the GDNative module. ([Sample project](https://github.com/Relintai/gdnative_cpp_sample))
 
 ## Godot / Pandemonium Addons
 
