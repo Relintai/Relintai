@@ -28,7 +28,7 @@
 [[Webm]](https://github.com/Relintai/webm) - Module that adds support for webm.\
 [[Gif Loader]](https://github.com/Relintai/gif_loader) - Gif loader module for the pandemonium engine.\
 [[PMLPP]](https://github.com/Relintai/pmlpp) - Machine Learning module for the Pandemonium Engine.\
-[[gdnative]]([https://github.com/Relintai/pmlpp](https://github.com/Relintai/gdnative)) - GDNative module for the Pandemonium Engine. [(Sample project](https://github.com/Relintai/gdnative_sample)
+[[gdnative]](https://github.com/Relintai/gdnative) - GDNative module for the Pandemonium Engine. [Sample project](https://github.com/Relintai/gdnative_sample)
 
 #### GDNative Addons
 
