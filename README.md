@@ -27,7 +27,7 @@
 [[Webp]](https://github.com/Relintai/webp) - Module that adds support for webp.\
 [[Webm]](https://github.com/Relintai/webm) - Module that adds support for webm.\
 [[Gif Loader]](https://github.com/Relintai/gif_loader) - Gif loader module for the pandemonium engine.\
-[[PMLPP]](https://github.com/Relintai/pmlpp) - Machine Learning module for the Pandemonium Engine.\
+[[PMLPP]](https://github.com/Relintai/pmlpp) - Machine Learning module for the Pandemonium Engine. ([Sample project](https://github.com/Relintai/pmlpp_sample))\
 [[Mono]](https://github.com/Relintai/mono) - C# support module for the Pandemonium Engine. ([Sample project](https://github.com/Relintai/mono_sample))\
 [[GDNative]](https://github.com/Relintai/gdnative) - GDNative module for the Pandemonium Engine.
 
