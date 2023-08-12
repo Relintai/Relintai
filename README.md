@@ -41,7 +41,7 @@
 [[Mesh Data Resource Editor]](https://github.com/Relintai/broken_seals/tree/master/game/addons/mesh_data_resource_editor) - An addon that lets you edit [MeshDataResources](https://github.com/Relintai/mesh_data_resource/blob/master/mesh_data_resource.h) right from within godot. (I'ts a 3d modelling addon.) ([C++ Port](https://github.com/Relintai/pandemonium_engine/tree/master/modules/mesh_data_resource))\
 [[Data Manager]](https://github.com/Relintai/broken_seals/tree/master/game/addons/data_manager) - An editor addon that helps organizing modular projects.\
 [[World Generator]](https://github.com/Relintai/broken_seals/tree/master/game/addons/world_generator) - An addon with an editor plugin to help with generating pseudo random worlds.\
-[[GDFXR]](https://github.com/Relintai/gdfxr) - timothyqiu's sfxr editor plugin ported to Pandemonium. 
+[[GDFXR]](https://github.com/Relintai/gdfxr) - timothyqiu's sfxr Godot editor plugin ported to Pandemonium. 
 
 ## Godot Engine Modules
 
