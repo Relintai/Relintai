@@ -42,8 +42,7 @@
 [[Data Manager]](https://github.com/Relintai/broken_seals/tree/master/game/addons/data_manager) - An editor addon that helps organizing modular projects.\
 [[World Generator]](https://github.com/Relintai/broken_seals/tree/master/game/addons/world_generator) - An addon with an editor plugin to help with generating pseudo random worlds.\
 [[GDC Converter]](https://github.com/Relintai/broken_seals/tree/master/game/addons/gdc_converter) - An addon which can help with converting typed gdscript and scenes to c++ (with some manual intervention).\
-[[GDFXR]](https://github.com/Relintai/gdfxr) - timothyqiu's sfxr Godot editor plugin ported to Pandemonium.\
-[[SMTP Node]](https://github.com/Relintai/smtp_node) - SMTP Client Node for Pandemonium based on AriWD40's Godot-SMTP-Gmail. 
+[[GDFXR]](https://github.com/Relintai/gdfxr) - timothyqiu's sfxr Godot editor plugin ported to Pandemonium.
 
 ## Godot Engine Modules
 
