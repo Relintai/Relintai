@@ -43,7 +43,7 @@
 [[GDFXR]](https://github.com/Relintai/gdfxr) - timothyqiu's sfxr Godot editor plugin ported to Pandemonium.
 
 [[Mat Maker GD]](https://github.com/Relintai/mat_maker_gd) - RodZill4's material-maker ported to the cpu (a.k.a. full gdscript with threading). ([C++ Port](https://github.com/Relintai/pandemonium_engine/tree/master/modules/material_maker) - Available in the pandemonium engine by default.)\
-[[Mesh Data Resource Editor]](https://github.com/Relintai/broken_seals/tree/master/game/addons/mesh_data_resource_editor) - An addon that lets you edit [MeshDataResources](https://github.com/Relintai/mesh_data_resource/blob/master/mesh_data_resource.h) right from within godot. (I'ts a 3d modelling addon.) ([C++ Port](https://github.com/Relintai/pandemonium_engine/tree/master/modules/mesh_data_resource) - Available in the pandemonium engine by default.)
+[[Mesh Data Resource Editor]](https://github.com/Relintai/broken_seals/tree/master/game/addons/mesh_data_resource_editor) - An addon that lets you edit [MeshDataResources](https://github.com/Relintai/mesh_data_resource/blob/master/mesh_data_resource.h) right from within godot. (It's a 3d modelling addon.) ([C++ Port](https://github.com/Relintai/pandemonium_engine/tree/master/modules/mesh_data_resource) - Available in the pandemonium engine by default.)
 
 
 ## Godot Engine Modules
