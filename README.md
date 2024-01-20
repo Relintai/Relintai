@@ -87,7 +87,8 @@ This is a PvP cooldown tracker addon for World of Warcraft 3.3.5a. (the old clie
 
 ## Other
 
-[[SFW]](https://github.com/Relintai/sfw) - Simple c++ app / game framework to help with teaching programming.
+[[SFW]](https://github.com/Relintai/sfw) - Simple c++ app / game framework inspired by the single file c game engines 
+and libraries, especially [FWK](https://github.com/r-lyeh/FWK).
 
 [[MemR]](https://github.com/Relintai/MemR) - Small cross platform utility to help you organize images into folders.\
 [[UML Generator]](https://github.com/Relintai/uml_generator) - A tool to help with generating UML class diagrams from code with minimal changes.\
