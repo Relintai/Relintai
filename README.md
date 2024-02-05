@@ -111,4 +111,4 @@ An old village builder / hero manager web rpg ported to [[RCPP Framework]](https
 
 ### Book
 
-[[ELTE Digitális kultúra - Érettségi felkészítő gyakorlati feladatsorok]](https://github.com/Relintai/elte_digit_kult_erettsegi_felkeszito_2024) - Források és megoldások az ELTE Digitális kultúra - Érettségi felkészítő gyakorlati feladatsorok - Elemt Szint (2024) könyvhöz.
+[[ELTE Digitális kultúra - Érettségi felkészítő gyakorlati feladatsorok]](https://github.com/Relintai/elte_digit_kult_erettsegi_felkeszito_2024) - Források és megoldások az ELTE Digitális kultúra - Érettségi felkészítő gyakorlati feladatsorok - Emelt Szint (2024) könyvhöz.
