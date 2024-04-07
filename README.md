@@ -96,7 +96,8 @@ and libraries, especially [FWK](https://github.com/r-lyeh/FWK).
 
 [[Programming Tutorials]](https://github.com/Relintai/programming_tutorials) - Hungarian programming tutorials.
 
-[[ELTE IK Thesis]](https://github.com/Relintai/elteikthesis) - Simplified ELTE FI bachelor and master thesis template.\
+[[ELTE IK Thesis]](https://github.com/Relintai/elteikthesis) - Simplified ELTE FI bachelor and master thesis template.
+
 [[Documents]](https://github.com/Relintai/Documents) - A bunch of university (early BsC) related things. Mostly LATeX files mostly about math (like axioms/definitions/proofs) in hungarian.
 
 
