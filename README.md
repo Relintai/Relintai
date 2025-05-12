@@ -19,8 +19,7 @@
 ## Pandemonium Engine
 
 [[Pandemonium Engine]](https://github.com/Relintai/pandemonium_engine) - A fork of godot that is very heavily customized.\
-[[Docs]](https://github.com/Relintai/pandemonium_engine_docs) - Docs for the Pandemonium Engine.\
-[[Demo Projects]](https://github.com/Relintai/pandemonium_demo_projects) - Demonstration and Template Projects.
+[[Docs]](https://github.com/Relintai/pandemonium_engine_docs) - Docs for the Pandemonium Engine. Now includes the demo projects.
 
 ### Modules
 
