@@ -23,11 +23,11 @@
 
 ### Modules
 
-[[Webp]](https://github.com/Relintai/webp) - Module that adds support for webp.\
 [[Webm]](https://github.com/Relintai/webm) - Module that adds support for webm.\
 [[Gif Loader]](https://github.com/Relintai/gif_loader) - Gif loader module for the pandemonium engine.\
 [[PMLPP]](https://github.com/Relintai/pmlpp) - Machine Learning module for the Pandemonium Engine. ([Sample project](https://github.com/Relintai/pmlpp_sample)), ([Standalone sample project](https://github.com/Relintai/pmlpp_standalone_sample))\
-[[Mono]](https://github.com/Relintai/mono) - C# support module for the Pandemonium Engine. ([Sample project](https://github.com/Relintai/mono_sample))
+[[Mono]](https://github.com/Relintai/mono) - C# support module for the Pandemonium Engine. ([Sample project](https://github.com/Relintai/mono_sample))\
+[[Webp]](https://github.com/Relintai/webp) - Module that adds support for webp. (built-in since 5.1.0).
 
 #### GDNative Addons
 
@@ -48,6 +48,10 @@
 [[Mat Maker GD]](https://github.com/Relintai/mat_maker_gd) - RodZill4's material-maker ported to the cpu (a.k.a. full gdscript with threading). ([C++ Port](https://github.com/Relintai/pandemonium_engine/tree/master/modules/material_maker) - Available in the pandemonium engine by default.)\
 [[Mesh Data Resource Editor]](https://github.com/Relintai/broken_seals/tree/master/game/addons/mesh_data_resource_editor) - An addon that lets you edit [MeshDataResources](https://github.com/Relintai/mesh_data_resource/blob/master/mesh_data_resource.h) right from within godot. (It's a 3d modelling addon.) ([C++ Port](https://github.com/Relintai/pandemonium_engine/tree/master/modules/mesh_data_resource) - Available in the pandemonium engine by default.)
 
+## SFW
+
+[[SFW]](https://github.com/Relintai/sfw) - Simple c++ app / game framework inspired by the single file c game engines 
+and libraries, especially [FWK](https://github.com/r-lyeh/FWK).
 
 ## Godot Engine Modules
 
@@ -87,9 +91,6 @@ This is a PvP cooldown tracker addon for World of Warcraft 3.3.5a. (the old clie
 
 ## Other
 
-[[SFW]](https://github.com/Relintai/sfw) - Simple c++ app / game framework inspired by the single file c game engines 
-and libraries, especially [FWK](https://github.com/r-lyeh/FWK).
-
 [[MemR]](https://github.com/Relintai/MemR) - Small cross platform utility to help you organize images into folders.\
 [[UML Generator]](https://github.com/Relintai/uml_generator) - A tool to help with generating UML class diagrams from code with minimal changes.\
 [[YTDL Link Gen]](https://github.com/Relintai/ytdl_link_gen) - A little python script that helps archiving youtube (and other) channels using yt-dlp. 
@@ -114,4 +115,8 @@ An old village builder / hero manager web rpg ported to [[RCPP Framework]](https
 
 ### Book
 
-[[ELTE Digitális kultúra - Érettségi felkészítő gyakorlati feladatsorok]](https://github.com/Relintai/elte_digit_kult_erettsegi_felkeszito_2024) - Források és megoldások az ELTE Digitális kultúra - Érettségi felkészítő gyakorlati feladatsorok - Emelt Szint (2024) könyvhöz.
+[[ELTE Digitális kultúra - Érettségi felkészítő gyakorlati feladatsorok]](https://github.com/Relintai/elte_digit_kult_erettsegi_felkeszito_2024) - Források és megoldások az ELTE Digitális kultúra - Érettségi felkészítő gyakorlati feladatsorok - Emelt Szint (2024) könyvhöz
+
+## Notes
+
+All of these are mirrored at [https://git.relintai.net](https://git.relintai.net)
