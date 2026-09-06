@@ -119,4 +119,4 @@ An old village builder / hero manager web rpg ported to [[RCPP Framework]](https
 
 ## Notes
 
-All of these are mirrored at [https://git.relintai.net](https://git.relintai.net)
+All my public repositories are mirrored at [https://git.relintai.net](https://git.relintai.net)
