@@ -1,5 +1,3 @@
-## Highlights
-
 ## Pandemonium Engine
 
 [[Pandemonium Engine]](https://github.com/Relintai/pandemonium_engine) - A fork of godot that is very heavily customized.\
