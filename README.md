@@ -26,7 +26,7 @@ and libraries, especially [FWK](https://github.com/r-lyeh/FWK).
 
 [[Pandemonium CMS]](https://github.com/Relintai/pandemonium_cms) - A Pandemonium Engine based experimantal Content Management System for the Web. 
 
-### Modules
+## Pandemonium Engine Modules
 
 [[Webm]](https://github.com/Relintai/webm) - Module that adds support for webm.\
 [[Gif Loader]](https://github.com/Relintai/gif_loader) - Gif loader module for the pandemonium engine.\
