@@ -1,3 +1,15 @@
+## Highlights
+
+## Pandemonium Engine
+
+[[Pandemonium Engine]](https://github.com/Relintai/pandemonium_engine) - A fork of godot that is very heavily customized.\
+[[Docs]](https://github.com/Relintai/pandemonium_engine_docs) - Docs for the Pandemonium Engine. Now includes the demo projects.
+
+## SFW
+
+[[SFW]](https://github.com/Relintai/sfw) - Simple c++ app / game framework inspired by the single file c game engines 
+and libraries, especially [FWK](https://github.com/r-lyeh/FWK).
+
 ## Games
 
 [[Broken Seals]](https://github.com/Relintai/broken_seals) - An open source third person action RPG with multiplayer support.
@@ -15,11 +27,6 @@
 ## Web
 
 [[Pandemonium CMS]](https://github.com/Relintai/pandemonium_cms) - A Pandemonium Engine based experimantal Content Management System for the Web. 
-
-## Pandemonium Engine
-
-[[Pandemonium Engine]](https://github.com/Relintai/pandemonium_engine) - A fork of godot that is very heavily customized.\
-[[Docs]](https://github.com/Relintai/pandemonium_engine_docs) - Docs for the Pandemonium Engine. Now includes the demo projects.
 
 ### Modules
 
@@ -47,11 +54,6 @@
 
 [[Mat Maker GD]](https://github.com/Relintai/mat_maker_gd) - RodZill4's material-maker ported to the cpu (a.k.a. full gdscript with threading). ([C++ Port](https://github.com/Relintai/pandemonium_engine/tree/master/modules/material_maker) - Available in the pandemonium engine by default.)\
 [[Mesh Data Resource Editor]](https://github.com/Relintai/broken_seals/tree/master/game/addons/mesh_data_resource_editor) - An addon that lets you edit [MeshDataResources](https://github.com/Relintai/mesh_data_resource/blob/master/mesh_data_resource.h) right from within godot. (It's a 3d modelling addon.) ([C++ Port](https://github.com/Relintai/pandemonium_engine/tree/master/modules/mesh_data_resource) - Available in the pandemonium engine by default.)
-
-## SFW
-
-[[SFW]](https://github.com/Relintai/sfw) - Simple c++ app / game framework inspired by the single file c game engines 
-and libraries, especially [FWK](https://github.com/r-lyeh/FWK).
 
 ## Godot Engine Modules
 
